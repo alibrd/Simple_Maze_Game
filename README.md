@@ -35,10 +35,3 @@ A Python-based maze game built with **pygame**, where a mouse navigates a proced
 - The **mouse always starts at the top-left corner (1,1)**, and the **cheese is at the bottom-right corner**.
 - The game ensures **a single valid path exists** between start and goal.
 
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
-🐭 Built with ❤️ using **pygame**.
